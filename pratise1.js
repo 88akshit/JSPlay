@@ -460,3 +460,10 @@ console.log(newFruits);
 })("Params");
 
 
+let queue = [[0,0]]
+queue.push(null)
+queue.push([9,9])
+console.log(queue);
+console.log(queue.shift());
+console.log(queue.shift());
+console.log(queue);

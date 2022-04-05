@@ -14,6 +14,11 @@
 
 //require('./protoInheri');
 
-require('./flattenArray');
+//require('./flattenArray');
+
+//require('./stringRotation');
+
+require('./graph');
+
 
 
